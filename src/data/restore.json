@@ -1,0 +1,210 @@
+{
+  "restore": [
+    {
+      "id": "R1.1",
+      "level": 1,
+      "levelName": "Flicker",
+      "front": "You showed up.",
+      "back": "Some days, showing up is the work. You didn't have to have answers. You didn't have to fix anything. You looked at something real, and that takes courage.",
+      "quote": "Mistakes are part of the dues one pays for a full life.",
+      "microcopy": "You Showed Up",
+      "footer": ""
+    },
+    {
+      "id": "R1.2",
+      "level": 1,
+      "levelName": "Flicker",
+      "front": "Be gentle with yourself.",
+      "back": "Today asked a lot of you. Maybe you didn't complete what you set out to do. Maybe you're still figuring it out. That's okay.",
+      "quote": "A person who never made a mistake never tried anything new.",
+      "microcopy": "Be Gentle Today",
+      "footer": ""
+    },
+    {
+      "id": "R1.3",
+      "level": 1,
+      "levelName": "Flicker",
+      "front": "You named what's hard.",
+      "back": "Naming what you're struggling with is often the hardest step. Most people avoid it entirely. You didn't. You looked at it directly.",
+      "quote": "Experience is simply the name we give our mistakes.",
+      "microcopy": "You Named It",
+      "footer": ""
+    },
+    {
+      "id": "R1.4",
+      "level": 1,
+      "levelName": "Flicker",
+      "front": "Small steps still count.",
+      "back": "Not every session will feel transformative, and that's okay. Some days, just acknowledging the struggle is enough.",
+      "quote": "It does not matter how slowly you go, as long as you do not stop.",
+      "microcopy": "Small Steps Count",
+      "footer": ""
+    },
+    {
+      "id": "R2.1",
+      "level": 2,
+      "levelName": "Spark",
+      "front": "A little space returned.",
+      "back": "You created room for something other than urgency today. Even if it was brief, even if it felt smallâ€”that space matters.",
+      "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "microcopy": "A Little Space Returned",
+      "footer": ""
+    },
+    {
+      "id": "R2.2",
+      "level": 2,
+      "levelName": "Spark",
+      "front": "You paused.",
+      "back": "In a culture that rewards constant motion, pausing is an act of resistance. You stopped long enough to check in with yourself. That's not nothing.",
+      "quote": "Even if you're on the right track, you'll get run over if you just sit there.",
+      "microcopy": "You Took a Breath",
+      "footer": ""
+    },
+    {
+      "id": "R2.3",
+      "level": 2,
+      "levelName": "Spark",
+      "front": "You're not alone in this.",
+      "back": "The struggles you're facing? They're systemic, not personal failures. Thousands of people are navigating the same patterns, asking the same questions.",
+      "quote": "Our greatest glory is not in never failing, but in rising every time we fail.",
+      "microcopy": "You're Not Alone",
+      "footer": ""
+    },
+    {
+      "id": "R2.4",
+      "level": 2,
+      "levelName": "Spark",
+      "front": "Something shifted, didn't it?",
+      "back": "Maybe it was subtleâ€”a reframe, a question, a moment of recognition. Those small shifts add up over time.",
+      "quote": "Mistakes are the portals of discovery.",
+      "microcopy": "Something Shifted",
+      "footer": ""
+    },
+    {
+      "id": "R3.1",
+      "level": 3,
+      "levelName": "Ember",
+      "front": "You made room for yourself.",
+      "back": "In a system that asks you to shrink, making room for what you need is an act of care. You didn't wait for permission. You claimed it.",
+      "quote": "Don't tell people how to do things; tell them what to do and let them surprise you.",
+      "microcopy": "You Made Room",
+      "footer": ""
+    },
+    {
+      "id": "R3.2",
+      "level": 3,
+      "levelName": "Ember",
+      "front": "Something softened inside.",
+      "back": "Maybe you released a belief that wasn't serving you. Maybe you let go of something you've been carrying too long. Whatever it was, the Glow Meter reflects that shift.",
+      "quote": "If you learn from defeat, you haven't really lost.",
+      "microcopy": "Something Softened",
+      "footer": ""
+    },
+    {
+      "id": "R3.3",
+      "level": 3,
+      "levelName": "Ember",
+      "front": "You're building something here.",
+      "back": "Each time you pause to reflect, you're strengthening your capacity to navigate what's hard. It's like a muscleâ€”the more you use it, the stronger it gets.",
+      "quote": "Success consists of going from failure to failure without loss of enthusiasm.",
+      "microcopy": "You're Building Something",
+      "footer": ""
+    },
+    {
+      "id": "R3.4",
+      "level": 3,
+      "levelName": "Ember",
+      "front": "You're learning what you need.",
+      "back": "Every time you engage with these reflections, you're gathering data about yourselfâ€”what drains you, what restores you, what matters most.",
+      "quote": "I've learned that mistakes can often be as good a teacher as success.",
+      "microcopy": "You're Learning",
+      "footer": ""
+    },
+    {
+      "id": "R4.1",
+      "level": 4,
+      "levelName": "Flame",
+      "front": "Your energy is coming back.",
+      "back": "You can feel it, can't you? The weight lifting, even just a little. The capacity expanding. That's not something you earnedâ€”it's something you reclaimed.",
+      "quote": "Failure is the condiment that gives success its flavor.",
+      "microcopy": "Your Energy Is Returning",
+      "footer": ""
+    },
+    {
+      "id": "R4.2",
+      "level": 4,
+      "levelName": "Flame",
+      "front": "Carry this warmth with you.",
+      "back": "What you did todayâ€”looking honestly at what's hard, experimenting with something new, making room for yourselfâ€”that ripples outward.",
+      "quote": "In most cases, being a good boss means hiring talented people and then getting out of their way.",
+      "microcopy": "Carry This Forward",
+      "footer": ""
+    },
+    {
+      "id": "R4.3",
+      "level": 4,
+      "levelName": "Flame",
+      "front": "You're finding your edge.",
+      "back": "Not the edge of breakingâ€”the edge of where you stop and the world begins. Boundaries. Agency. The clarity about what's yours to carry and what's not.",
+      "quote": "When you can't make them see the light, make them feel the heat.",
+      "microcopy": "You're Finding Your Edge",
+      "footer": ""
+    },
+    {
+      "id": "R4.4",
+      "level": 4,
+      "levelName": "Flame",
+      "front": "What you're doing matters.",
+      "back": "The work you're doing hereâ€”naming what's broken, experimenting with new approaches, reclaiming your energyâ€”it's not just personal. It's systemic. You're modeling something different.",
+      "quote": "People often say motivation doesn't last. Well, neither does bathing.",
+      "microcopy": "This Matters",
+      "footer": ""
+    },
+    {
+      "id": "R5.1",
+      "level": 5,
+      "levelName": "Glow",
+      "front": "You're glowing. Can you feel it?",
+      "back": "This isn't hype. This is real. You've done something powerful hereâ€”looked at what's hard, experimented with what could help, and reclaimed something essential: your sense of agency.",
+      "quote": "Never follow someone else's path unless you're in the woods and you're lost.",
+      "microcopy": "You're Glowing",
+      "footer": ""
+    },
+    {
+      "id": "R5.2",
+      "level": 5,
+      "levelName": "Glow",
+      "front": "Let this feeling travel.",
+      "back": "Whatever you reclaimed todayâ€”clarity, permission, energy, connectionâ€”it doesn't have to stay here. You can carry it into the rest of your day, your week, your work.",
+      "quote": "It's hard to lead a cavalry charge if you think you look funny on a horse.",
+      "microcopy": "Let This Travel With You",
+      "footer": ""
+    },
+    {
+      "id": "R5.3",
+      "level": 5,
+      "levelName": "Glow",
+      "front": "You're modeling something new.",
+      "back": "Every time you pause to check in with yourself, set a boundary, or experiment with change, you're showing others what's possible. Whether you realize it or not, someone is watching.",
+      "quote": "When I talk to leaders, I get the feeling that I am important.",
+      "microcopy": "You're Modeling Something Different",
+      "footer": ""
+    },
+    {
+      "id": "R5.4",
+      "level": 5,
+      "levelName": "Glow",
+      "front": "Come back whenever you need.",
+      "back": "This space is here for youâ€”not to fix you, not to optimize you, but to witness you. The Glow Meter reflects where you are right now, and right now? You're glowing.",
+      "quote": "Do not fear mistakes. You will know failure. Continue to reach out.",
+      "microcopy": "Come Back Anytime",
+      "footer": ""
+    }
+  ],
+  "metadata": {
+    "total": 20,
+    "source": "Burnout_Buddy_Restore_Cards_Complete.md",
+    "version": "1.0",
+    "created": "2025-11-26"
+  }
+}

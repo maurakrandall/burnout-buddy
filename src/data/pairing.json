@@ -1,0 +1,43 @@
+{
+  "pairing": {
+    "I1": "A1",
+    "I2": "A2",
+    "I3": "A3",
+    "I4": "A4",
+    "I5": "A5",
+    "I6": "A6",
+    "I7": "A7",
+    "I8": "A8",
+    "I9": "A9",
+    "I10": "A10",
+    "I11": "A11",
+    "I12": "A12",
+    "I13": "A13",
+    "I14": "A14",
+    "I15": "A15",
+    "I16": "A16",
+    "I17": "A17",
+    "I18": "A18",
+    "I19": "A19",
+    "I20": "A20",
+    "I21": "A21",
+    "I22": "A22",
+    "I23": "A23",
+    "I24": "A24",
+    "I25": "A25",
+    "I26": "A26",
+    "I27": "A27",
+    "I28": "A28",
+    "I29": "A29",
+    "I30": "A30",
+    "I31": "A31",
+    "I32": "A32"
+  },
+  "metadata": {
+    "total": 32,
+    "logic": "Simple 1:1 mapping - Insight number matches Action number",
+    "source": "Burnout_Buddy_Insight_Action_Mapping.md",
+    "version": "1.0",
+    "created": "2025-11-26"
+  }
+}

@@ -1,0 +1,795 @@
+{
+  "responses": [
+    {
+      "id": "C1-R1",
+      "challengeId": "C1",
+      "responseId": "R1",
+      "text": "The workload is impossible",
+      "routesTo": "I1"
+    },
+    {
+      "id": "C1-R2",
+      "challengeId": "C1",
+      "responseId": "R2",
+      "text": "I never actually recover",
+      "routesTo": "I7"
+    },
+    {
+      "id": "C1-R3",
+      "challengeId": "C1",
+      "responseId": "R3",
+      "text": "Meaningless overhead",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C1-R4",
+      "challengeId": "C1",
+      "responseId": "R4",
+      "text": "The work culture is toxic",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C1-R5",
+      "challengeId": "C1",
+      "responseId": "R5",
+      "text": "My values don't align",
+      "routesTo": "I1"
+    },
+    {
+      "id": "C1-R6",
+      "challengeId": "C1",
+      "responseId": "R6",
+      "text": "I've lost my curiosity",
+      "routesTo": "I6"
+    },
+    {
+      "id": "C1-R7",
+      "challengeId": "C1",
+      "responseId": "R7",
+      "text": "The goalposts keep moving",
+      "routesTo": "I14"
+    },
+    {
+      "id": "C1-R8",
+      "challengeId": "C1",
+      "responseId": "R8",
+      "text": "I'm losing myself",
+      "routesTo": "I3"
+    },
+    {
+      "id": "C2-R1",
+      "challengeId": "C2",
+      "responseId": "R1",
+      "text": "My workload isn't recognized",
+      "routesTo": "I29"
+    },
+    {
+      "id": "C2-R2",
+      "challengeId": "C2",
+      "responseId": "R2",
+      "text": "Team dynamics being created",
+      "routesTo": "I4"
+    },
+    {
+      "id": "C2-R3",
+      "challengeId": "C2",
+      "responseId": "R3",
+      "text": "They're micromanaging",
+      "routesTo": "I26"
+    },
+    {
+      "id": "C2-R4",
+      "challengeId": "C2",
+      "responseId": "R4",
+      "text": "They're playing favorites",
+      "routesTo": "I27"
+    },
+    {
+      "id": "C2-R5",
+      "challengeId": "C2",
+      "responseId": "R5",
+      "text": "They don't have my back",
+      "routesTo": "I28"
+    },
+    {
+      "id": "C2-R6",
+      "challengeId": "C2",
+      "responseId": "R6",
+      "text": "They keep changing direction",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C2-R7",
+      "challengeId": "C2",
+      "responseId": "R7",
+      "text": "They're not communicating clearly",
+      "routesTo": "I13"
+    },
+    {
+      "id": "C2-R8",
+      "challengeId": "C2",
+      "responseId": "R8",
+      "text": "They're conflict-avoidant",
+      "routesTo": "I12"
+    },
+    {
+      "id": "C3-R1",
+      "challengeId": "C3",
+      "responseId": "R1",
+      "text": "They say one thing but do another",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C3-R2",
+      "challengeId": "C3",
+      "responseId": "R2",
+      "text": "They're rewriting history",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C3-R3",
+      "challengeId": "C3",
+      "responseId": "R3",
+      "text": "The goalposts keep moving",
+      "routesTo": "I14"
+    },
+    {
+      "id": "C3-R4",
+      "challengeId": "C3",
+      "responseId": "R4",
+      "text": "Toxic positivity",
+      "routesTo": "I23"
+    },
+    {
+      "id": "C3-R5",
+      "challengeId": "C3",
+      "responseId": "R5",
+      "text": "Everyone sees it but no one says it",
+      "routesTo": "I23"
+    },
+    {
+      "id": "C3-R6",
+      "challengeId": "C3",
+      "responseId": "R6",
+      "text": "I'm told I'm the problem",
+      "routesTo": "I1"
+    },
+    {
+      "id": "C3-R7",
+      "challengeId": "C3",
+      "responseId": "R7",
+      "text": "Numbers don't match story",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C3-R8",
+      "challengeId": "C3",
+      "responseId": "R8",
+      "text": "Metrics changed after I succeeded",
+      "routesTo": "I14"
+    },
+    {
+      "id": "C4-R1",
+      "challengeId": "C4",
+      "responseId": "R1",
+      "text": "No clear path up",
+      "routesTo": "I17"
+    },
+    {
+      "id": "C4-R2",
+      "challengeId": "C4",
+      "responseId": "R2",
+      "text": "Skills underutilized",
+      "routesTo": "I29"
+    },
+    {
+      "id": "C4-R3",
+      "challengeId": "C4",
+      "responseId": "R3",
+      "text": "Right people don't know what I can do",
+      "routesTo": "I29"
+    },
+    {
+      "id": "C4-R4",
+      "challengeId": "C4",
+      "responseId": "R4",
+      "text": "It's politics, not performance",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C4-R5",
+      "challengeId": "C4",
+      "responseId": "R5",
+      "text": "Opportunities don't exist here",
+      "routesTo": "I17"
+    },
+    {
+      "id": "C4-R6",
+      "challengeId": "C4",
+      "responseId": "R6",
+      "text": "Golden-handcuffed",
+      "routesTo": "I17"
+    },
+    {
+      "id": "C4-R7",
+      "challengeId": "C4",
+      "responseId": "R7",
+      "text": "Don't know what I want next",
+      "routesTo": "I31"
+    },
+    {
+      "id": "C4-R8",
+      "challengeId": "C4",
+      "responseId": "R8",
+      "text": "I'm pigeonholed",
+      "routesTo": "I29"
+    },
+    {
+      "id": "C5-R1",
+      "challengeId": "C5",
+      "responseId": "R1",
+      "text": "The meaning",
+      "routesTo": "I5"
+    },
+    {
+      "id": "C5-R2",
+      "challengeId": "C5",
+      "responseId": "R2",
+      "text": "Growth opportunities",
+      "routesTo": "I31"
+    },
+    {
+      "id": "C5-R3",
+      "challengeId": "C5",
+      "responseId": "R3",
+      "text": "Recognition",
+      "routesTo": "I29"
+    },
+    {
+      "id": "C5-R4",
+      "challengeId": "C5",
+      "responseId": "R4",
+      "text": "Autonomy",
+      "routesTo": "I1"
+    },
+    {
+      "id": "C5-R5",
+      "challengeId": "C5",
+      "responseId": "R5",
+      "text": "Connection with the work",
+      "routesTo": "I5"
+    },
+    {
+      "id": "C5-R6",
+      "challengeId": "C5",
+      "responseId": "R6",
+      "text": "Energy",
+      "routesTo": "I7"
+    },
+    {
+      "id": "C5-R7",
+      "challengeId": "C5",
+      "responseId": "R7",
+      "text": "Purpose",
+      "routesTo": "I5"
+    },
+    {
+      "id": "C5-R8",
+      "challengeId": "C5",
+      "responseId": "R8",
+      "text": "Challenge",
+      "routesTo": "I31"
+    },
+    {
+      "id": "C6-R1",
+      "challengeId": "C6",
+      "responseId": "R1",
+      "text": "We want different things",
+      "routesTo": "I12"
+    },
+    {
+      "id": "C6-R2",
+      "challengeId": "C6",
+      "responseId": "R2",
+      "text": "They don't trust me",
+      "routesTo": "I26"
+    },
+    {
+      "id": "C6-R3",
+      "challengeId": "C6",
+      "responseId": "R3",
+      "text": "Communication styles clash",
+      "routesTo": "I19"
+    },
+    {
+      "id": "C6-R4",
+      "challengeId": "C6",
+      "responseId": "R4",
+      "text": "Power imbalance",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C6-R5",
+      "challengeId": "C6",
+      "responseId": "R5",
+      "text": "Unspoken resentment",
+      "routesTo": "I12"
+    },
+    {
+      "id": "C6-R6",
+      "challengeId": "C6",
+      "responseId": "R6",
+      "text": "Values misalignment",
+      "routesTo": "I1"
+    },
+    {
+      "id": "C6-R7",
+      "challengeId": "C6",
+      "responseId": "R7",
+      "text": "They won't hear me",
+      "routesTo": "I13"
+    },
+    {
+      "id": "C6-R8",
+      "challengeId": "C6",
+      "responseId": "R8",
+      "text": "I can't speak up safely",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C7-R1",
+      "challengeId": "C7",
+      "responseId": "R1",
+      "text": "No clarity on why",
+      "routesTo": "I14"
+    },
+    {
+      "id": "C7-R2",
+      "challengeId": "C7",
+      "responseId": "R2",
+      "text": "No input in decisions",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C7-R3",
+      "challengeId": "C7",
+      "responseId": "R3",
+      "text": "Too many changes at once",
+      "routesTo": "I14"
+    },
+    {
+      "id": "C7-R4",
+      "challengeId": "C7",
+      "responseId": "R4",
+      "text": "My skills may become obsolete",
+      "routesTo": "I31"
+    },
+    {
+      "id": "C7-R5",
+      "challengeId": "C7",
+      "responseId": "R5",
+      "text": "Loss of what worked",
+      "routesTo": "I14"
+    },
+    {
+      "id": "C7-R6",
+      "challengeId": "C7",
+      "responseId": "R6",
+      "text": "No support through transition",
+      "routesTo": "I28"
+    },
+    {
+      "id": "C7-R7",
+      "challengeId": "C7",
+      "responseId": "R7",
+      "text": "Anxiety about uncertainty",
+      "routesTo": "I18"
+    },
+    {
+      "id": "C7-R8",
+      "challengeId": "C7",
+      "responseId": "R8",
+      "text": "I'm exhausted from adapting",
+      "routesTo": "I14"
+    },
+    {
+      "id": "C8-R1",
+      "challengeId": "C8",
+      "responseId": "R1",
+      "text": "They're not saying what they mean",
+      "routesTo": "I19"
+    },
+    {
+      "id": "C8-R2",
+      "challengeId": "C8",
+      "responseId": "R2",
+      "text": "I'm not being heard",
+      "routesTo": "I13"
+    },
+    {
+      "id": "C8-R3",
+      "challengeId": "C8",
+      "responseId": "R3",
+      "text": "Too much left unsaid",
+      "routesTo": "I12"
+    },
+    {
+      "id": "C8-R4",
+      "challengeId": "C8",
+      "responseId": "R4",
+      "text": "Feedback feels like attacks",
+      "routesTo": "I22"
+    },
+    {
+      "id": "C8-R5",
+      "challengeId": "C8",
+      "responseId": "R5",
+      "text": "Passive-aggressive dynamics",
+      "routesTo": "I12"
+    },
+    {
+      "id": "C8-R6",
+      "challengeId": "C8",
+      "responseId": "R6",
+      "text": "No shared understanding",
+      "routesTo": "I19"
+    },
+    {
+      "id": "C8-R7",
+      "challengeId": "C8",
+      "responseId": "R7",
+      "text": "Trust has eroded",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C8-R8",
+      "challengeId": "C8",
+      "responseId": "R8",
+      "text": "Cultural/style differences",
+      "routesTo": "I19"
+    },
+    {
+      "id": "C9-R1",
+      "challengeId": "C9",
+      "responseId": "R1",
+      "text": "The sheer volume of work",
+      "routesTo": "I1"
+    },
+    {
+      "id": "C9-R2",
+      "challengeId": "C9",
+      "responseId": "R2",
+      "text": "Too many interruptions",
+      "routesTo": "I24"
+    },
+    {
+      "id": "C9-R3",
+      "challengeId": "C9",
+      "responseId": "R3",
+      "text": "Carrying others' stress",
+      "routesTo": "I15"
+    },
+    {
+      "id": "C9-R4",
+      "challengeId": "C9",
+      "responseId": "R4",
+      "text": "Emotional labor of leadership",
+      "routesTo": "I30"
+    },
+    {
+      "id": "C9-R5",
+      "challengeId": "C9",
+      "responseId": "R5",
+      "text": "No boundaries between work and life",
+      "routesTo": "I21"
+    },
+    {
+      "id": "C9-R6",
+      "challengeId": "C9",
+      "responseId": "R6",
+      "text": "Perfectionism making everything take longer",
+      "routesTo": "I20"
+    },
+    {
+      "id": "C9-R7",
+      "challengeId": "C9",
+      "responseId": "R7",
+      "text": "Decision fatigue",
+      "routesTo": "I24"
+    },
+    {
+      "id": "C9-R8",
+      "challengeId": "C9",
+      "responseId": "R8",
+      "text": "Everything feels urgent",
+      "routesTo": "I32"
+    },
+    {
+      "id": "C10-R1",
+      "challengeId": "C10",
+      "responseId": "R1",
+      "text": "Broken promises",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C10-R2",
+      "challengeId": "C10",
+      "responseId": "R2",
+      "text": "Unfair treatment",
+      "routesTo": "I27"
+    },
+    {
+      "id": "C10-R3",
+      "challengeId": "C10",
+      "responseId": "R3",
+      "text": "Lack of control",
+      "routesTo": "I16"
+    },
+    {
+      "id": "C10-R4",
+      "challengeId": "C10",
+      "responseId": "R4",
+      "text": "Being disrespected",
+      "routesTo": "I28"
+    },
+    {
+      "id": "C10-R5",
+      "challengeId": "C10",
+      "responseId": "R5",
+      "text": "Values violation",
+      "routesTo": "I1"
+    },
+    {
+      "id": "C10-R6",
+      "challengeId": "C10",
+      "responseId": "R6",
+      "text": "Watching dysfunction",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C10-R7",
+      "challengeId": "C10",
+      "responseId": "R7",
+      "text": "Boundary violations",
+      "routesTo": "I16"
+    },
+    {
+      "id": "C10-R8",
+      "challengeId": "C10",
+      "responseId": "R8",
+      "text": "Gaslighting",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C11-R1",
+      "challengeId": "C11",
+      "responseId": "R1",
+      "text": "Job security",
+      "routesTo": "I31"
+    },
+    {
+      "id": "C11-R2",
+      "challengeId": "C11",
+      "responseId": "R2",
+      "text": "My performance",
+      "routesTo": "I1"
+    },
+    {
+      "id": "C11-R3",
+      "challengeId": "C11",
+      "responseId": "R3",
+      "text": "What people think of me",
+      "routesTo": "I29"
+    },
+    {
+      "id": "C11-R4",
+      "challengeId": "C11",
+      "responseId": "R4",
+      "text": "Making the wrong decision",
+      "routesTo": "I18"
+    },
+    {
+      "id": "C11-R5",
+      "challengeId": "C11",
+      "responseId": "R5",
+      "text": "Letting people down",
+      "routesTo": "I20"
+    },
+    {
+      "id": "C11-R6",
+      "challengeId": "C11",
+      "responseId": "R6",
+      "text": "The future is uncertain",
+      "routesTo": "I18"
+    },
+    {
+      "id": "C11-R7",
+      "challengeId": "C11",
+      "responseId": "R7",
+      "text": "I'm not good enough",
+      "routesTo": "I1"
+    },
+    {
+      "id": "C11-R8",
+      "challengeId": "C11",
+      "responseId": "R8",
+      "text": "Everything is changing too fast",
+      "routesTo": "I14"
+    },
+    {
+      "id": "C12-R1",
+      "challengeId": "C12",
+      "responseId": "R1",
+      "text": "New skills",
+      "routesTo": "I31"
+    },
+    {
+      "id": "C12-R2",
+      "challengeId": "C12",
+      "responseId": "R2",
+      "text": "Leadership development",
+      "routesTo": "I32"
+    },
+    {
+      "id": "C12-R3",
+      "challengeId": "C12",
+      "responseId": "R3",
+      "text": "Visibility and influence",
+      "routesTo": "I29"
+    },
+    {
+      "id": "C12-R4",
+      "challengeId": "C12",
+      "responseId": "R4",
+      "text": "Emotional intelligence",
+      "routesTo": "I30"
+    },
+    {
+      "id": "C12-R5",
+      "challengeId": "C12",
+      "responseId": "R5",
+      "text": "Strategic thinking",
+      "routesTo": "I32"
+    },
+    {
+      "id": "C12-R6",
+      "challengeId": "C12",
+      "responseId": "R6",
+      "text": "Communication skills",
+      "routesTo": "I19"
+    },
+    {
+      "id": "C12-R7",
+      "challengeId": "C12",
+      "responseId": "R7",
+      "text": "Confidence",
+      "routesTo": "I29"
+    },
+    {
+      "id": "C12-R8",
+      "challengeId": "C12",
+      "responseId": "R8",
+      "text": "Boundaries",
+      "routesTo": "I21"
+    },
+    {
+      "id": "C13-R1",
+      "challengeId": "C13",
+      "responseId": "R1",
+      "text": "The process",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C13-R2",
+      "challengeId": "C13",
+      "responseId": "R2",
+      "text": "The team dynamics",
+      "routesTo": "I15"
+    },
+    {
+      "id": "C13-R3",
+      "challengeId": "C13",
+      "responseId": "R3",
+      "text": "The leadership",
+      "routesTo": "I28"
+    },
+    {
+      "id": "C13-R4",
+      "challengeId": "C13",
+      "responseId": "R4",
+      "text": "Communication",
+      "routesTo": "I19"
+    },
+    {
+      "id": "C13-R5",
+      "challengeId": "C13",
+      "responseId": "R5",
+      "text": "The strategy",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C13-R6",
+      "challengeId": "C13",
+      "responseId": "R6",
+      "text": "The culture",
+      "routesTo": "I23"
+    },
+    {
+      "id": "C13-R7",
+      "challengeId": "C13",
+      "responseId": "R7",
+      "text": "My role clarity",
+      "routesTo": "I29"
+    },
+    {
+      "id": "C13-R8",
+      "challengeId": "C13",
+      "responseId": "R8",
+      "text": "The priorities",
+      "routesTo": "I10"
+    },
+    {
+      "id": "C14-R1",
+      "challengeId": "C14",
+      "responseId": "R1",
+      "text": "Managing people's emotions",
+      "routesTo": "I30"
+    },
+    {
+      "id": "C14-R2",
+      "challengeId": "C14",
+      "responseId": "R2",
+      "text": "Letting go of doing the work myself",
+      "routesTo": "I32"
+    },
+    {
+      "id": "C14-R3",
+      "challengeId": "C14",
+      "responseId": "R3",
+      "text": "Making decisions with incomplete info",
+      "routesTo": "I18"
+    },
+    {
+      "id": "C14-R4",
+      "challengeId": "C14",
+      "responseId": "R4",
+      "text": "Being vulnerable",
+      "routesTo": "I25"
+    },
+    {
+      "id": "C14-R5",
+      "challengeId": "C14",
+      "responseId": "R5",
+      "text": "Setting boundaries while being available",
+      "routesTo": "I21"
+    },
+    {
+      "id": "C14-R6",
+      "challengeId": "C14",
+      "responseId": "R6",
+      "text": "Having difficult conversations",
+      "routesTo": "I12"
+    },
+    {
+      "id": "C14-R7",
+      "challengeId": "C14",
+      "responseId": "R7",
+      "text": "Modeling what I want to see",
+      "routesTo": "I4"
+    },
+    {
+      "id": "C14-R8",
+      "challengeId": "C14",
+      "responseId": "R8",
+      "text": "The isolation",
+      "routesTo": "I2"
+    }
+  ],
+  "metadata": {
+    "total": 112,
+    "source": "Derived from challenges.json",
+    "version": "1.0",
+    "created": "2025-11-26",
+    "note": "112 total responses (8 per challenge × 14 challenges). C15 has no fixed responses."
+  }
+}

@@ -1,0 +1,21 @@
+Burnout Buddy – Asset Pack v1.0
+Bundle: burnout-buddy-assets-v1
+Date: 2025-11-26
+
+Contents:
+- PNG card fronts (Challenge, Question, Insight, Action, Restore)
+- PNG response card fronts (35 + blank)
+- PNG card backs (5 suits)
+- PNG suit icons (3 variants × 6 suits)
+- manifest.json  (asset index by filename)
+- cards.json     (suit + response deck structure)
+- GlowMeter_confluence.md (optional, if included)
+- Any additional schema or routing files as needed
+
+Owner: Maura K. Randall (MKR)
+Triad: Maura (Product), CP (System Design), Soph (Runtime)
+
+Notes:
+This version is the first complete visual + metadata asset pack
+for the Burnout Buddy MVP, ready for integration into the app
+prototype (React Native or SwiftUI).
