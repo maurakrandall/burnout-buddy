@@ -1,0 +1,330 @@
+{
+  "actions": [
+    {
+      "id": "A1",
+      "pairsWith": "I1",
+      "category": "Career / Motivation",
+      "front": "What if you spent 20% of your time on work you care about?",
+      "back": "(89 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A2",
+      "pairsWith": "I2",
+      "category": "Isolation / Connection",
+      "front": "What if you reached out to one person?",
+      "back": "(74 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A3",
+      "pairsWith": "I3",
+      "category": "Growth / Identity",
+      "front": "What else are you besides your job title?",
+      "back": "(69 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A4",
+      "pairsWith": "I4",
+      "category": "Leadership / Boundaries",
+      "front": "Who are you modeling for?",
+      "back": "(75 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A5",
+      "pairsWith": "I5",
+      "category": "Motivation / Purpose",
+      "front": "What makes work worth it?",
+      "back": "(82 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A6",
+      "pairsWith": "I6",
+      "category": "Burnout / Recovery",
+      "front": "What if resilience isn't about toughing it out?",
+      "back": "(76 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A7",
+      "pairsWith": "I7",
+      "category": "Work-life Balance / Recovery",
+      "front": "What if rest doesn't have to be earned?",
+      "back": "(78 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A8",
+      "pairsWith": "I8",
+      "category": "Isolation / Connection",
+      "front": "When did work friends become just coworkers?",
+      "back": "(82 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A9",
+      "pairsWith": "I9",
+      "category": "Leadership / Boundaries",
+      "front": "What are you modeling right now?",
+      "back": "(85 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A10",
+      "pairsWith": "I10",
+      "category": "Burnout / Reality Check",
+      "front": "When did 'self-care' become the answer to systemic dysfunction?",
+      "back": "(85 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A11",
+      "pairsWith": "I11",
+      "category": "Growth / Identity",
+      "front": "What else are you besides 'productive'?",
+      "back": "(79 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A12",
+      "pairsWith": "I12",
+      "category": "Conflict / Team Dynamics",
+      "front": "What if conflict means you're paying attention?",
+      "back": "(81 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A13",
+      "pairsWith": "I13",
+      "category": "Communication / Boss",
+      "front": "Why don't they understand what you're dealing with?",
+      "back": "(88 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A14",
+      "pairsWith": "I14",
+      "category": "Change / Overwhelmed",
+      "front": "How many changes ago did you stop caring?",
+      "back": "(84 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A15",
+      "pairsWith": "I15",
+      "category": "Team Dynamics / Overwhelmed",
+      "front": "Whose stress are you carrying?",
+      "back": "(79 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A16",
+      "pairsWith": "I16",
+      "category": "Anger / Conflict",
+      "front": "What control did you just lose?",
+      "back": "(86 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A17",
+      "pairsWith": "I17",
+      "category": "Career / Growth",
+      "front": "What if staying put is the right move?",
+      "back": "(88 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A18",
+      "pairsWith": "I18",
+      "category": "Anxiety / Overwhelmed",
+      "front": "What information would reduce your anxiety by half?",
+      "back": "(84 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A19",
+      "pairsWith": "I19",
+      "category": "Communication / Team Dynamics",
+      "front": "What if they're not difficultâ€”just different?",
+      "back": "(87 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A20",
+      "pairsWith": "I20",
+      "category": "Burnout / Overwhelmed",
+      "front": "What if good enough is actually enough?",
+      "back": "(78 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A21",
+      "pairsWith": "I21",
+      "category": "Work-life Balance / Boundaries",
+      "front": "Is remote work burning you out, or is boundary-less work?",
+      "back": "(83 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A22",
+      "pairsWith": "I22",
+      "category": "Communication / Growth",
+      "front": "What if criticism is care in disguise?",
+      "back": "(81 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A23",
+      "pairsWith": "I23",
+      "category": "Team Dynamics / Reality Check",
+      "front": "When did 'stay positive' become the answer to everything?",
+      "back": "(77 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A24",
+      "pairsWith": "I24",
+      "category": "Overwhelmed / Productivity",
+      "front": "What if your brain can't actually do two things at once?",
+      "back": "(81 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A25",
+      "pairsWith": "I25",
+      "category": "Leadership / Team Dynamics",
+      "front": "What if admitting struggle made you stronger, not weaker?",
+      "back": "(85 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A26",
+      "pairsWith": "I26",
+      "category": "Boss / Autonomy",
+      "front": "What if their control issues aren't about you?",
+      "back": "(89 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A27",
+      "pairsWith": "I27",
+      "category": "Boss / Career",
+      "front": "What if the playing field was never level?",
+      "back": "(82 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A28",
+      "pairsWith": "I28",
+      "category": "Boss / Support",
+      "front": "What if you need support they're not giving?",
+      "back": "(87 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A29",
+      "pairsWith": "I29",
+      "category": "Career / Visibility",
+      "front": "Being Good Isn't Enough",
+      "back": "(89 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A30",
+      "pairsWith": "I30",
+      "category": "Leadership / Boundaries",
+      "front": "You're Not Their Therapistâ€”But You're Doing the Emotional Work Anyway",
+      "back": "(97 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A31",
+      "pairsWith": "I31",
+      "category": "Career / Growth",
+      "front": "The Skills That Got You Here Are Expiringâ€”Faster Than You Think",
+      "back": "(88 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A32",
+      "pairsWith": "I32",
+      "category": "Leadership / Growth",
+      "front": "What Got You Here Won't Get You There",
+      "back": "(95 words)",
+      "tryThis": "",
+      "goDeeper": "",
+      "practiceWithAI": null
+    }
+  ],
+  "metadata": {
+    "total": 32,
+    "source": "Burnout_Buddy_Actions_Draft_From_Insights.md",
+    "version": "1.0",
+    "created": "2025-11-26"
+  }
+}

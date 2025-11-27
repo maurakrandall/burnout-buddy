@@ -1,0 +1,101 @@
+# 🪇 Burnout Buddy – Asset Metadata Overview (v1.0)
+
+This file explains what’s in the Burnout Buddy asset ZIP and how the
+metadata files (`manifest.json` and `cards.json`) map to the image assets.
+
+---
+
+## 1. Folder Layout (expected)
+
+All assets live under a single root folder, for example:
+
+`burnout-buddy-assets-v1/`
+- `cards/`
+  - `main-fronts/`
+  - `main-backs/`
+  - `responses/`
+- `icons/`
+- `metadata/`
+
+Recommended layout (can be adjusted in code as needed):
+
+```text
+burnout-buddy-assets-v1/
+  cards/
+    main-fronts/
+      BurnoutBuddy-challenge-card.png
+      BurnoutBuddy-question-card.png
+      BurnoutBuddy-insight-card.png
+      BurnoutBuddy-action-card.png
+      BurnoutBuddy-restore-card.png
+
+    main-backs/
+      BurnoutBuddy-card-back-blank-challenge.png
+      BurnoutBuddy-card-back-blank-question.png
+      BurnoutBuddy-card-back-blank-response.png
+      BurnoutBuddy-card-back-blank-insight.png
+      BurnoutBuddy-card-back-blank-active.png
+      BurnoutBuddy-card-back-blank-restore.png
+
+    responses/
+      BurnoutBuddy-response-card-front-overwhelm.png
+      BurnoutBuddy-response-card-front-responsibility-spiral.png
+      BurnoutBuddy-response-card-front-unclear-expectations.png
+      BurnoutBuddy-response-card-front-loss-autonomy.png
+      BurnoutBuddy-response-card-front-emotional-exhaustion.png
+      BurnoutBuddy-response-card-front-carrying-team.png
+      BurnoutBuddy-response-card-front-self-doubt.png
+      BurnoutBuddy-response-card-front-decision-fatigue.png
+      BurnoutBuddy-response-card-front-value-mismatch.png
+      BurnoutBuddy-response-card-front-conflict-avoidance.png
+      BurnoutBuddy-response-card-front-under-recognition.png
+      BurnoutBuddy-response-card-front-people-pleasing.png
+      BurnoutBuddy-response-card-front-hypervigilance.png
+      BurnoutBuddy-response-card-front-stalled-growth.png
+      BurnoutBuddy-response-card-front-perfectionism.png
+      BurnoutBuddy-response-card-front-role-creep.png
+      BurnoutBuddy-response-card-front-invisible-labor-load.png
+      BurnoutBuddy-response-card-front-unpredictable-workload.png
+      BurnoutBuddy-response-card-front-lack-of-feedback.png
+      BurnoutBuddy-response-card-front-boundary-erosion.png
+      BurnoutBuddy-response-card-front-talent-drain.png
+      BurnoutBuddy-response-card-front-misalignment-leadership.png
+      BurnoutBuddy-response-card-front-unresolved-conflict.png
+      BurnoutBuddy-response-card-front-fear-failure.png
+      BurnoutBuddy-response-card-front-context-switching.png
+      BurnoutBuddy-response-card-front-task-fog.png
+      BurnoutBuddy-response-card-front-emotional-labor.png
+      BurnoutBuddy-response-card-front-out-of-position.png
+      BurnoutBuddy-response-card-front-the-fixer.png
+      BurnoutBuddy-response-card-front-over-functioning.png
+      BurnoutBuddy-response-card-front-impostor-syndrome.png
+      BurnoutBuddy-response-card-front-lack-of-recognition.png
+      BurnoutBuddy-response-card-front-low-trust.png
+      BurnoutBuddy-response-card-front-misaligned-incentives.png
+      BurnoutBuddy-response-card-front-blank.png
+
+  icons/
+    BurnoutBuddy-icon-challenge-variant1.png
+    BurnoutBuddy-icon-challenge-variant2.png
+    BurnoutBuddy-icon-challenge-variant3.png
+    BurnoutBuddy-icon-questions-variant1.png
+    BurnoutBuddy-icon-question-variant2.png
+    BurnoutBuddy-icon-question-variant3.png
+    BurnoutBuddy-icon-response-variant1.png
+    BurnoutBuddy-icon-response-variant2.png
+    BurnoutBuddy-icon-response-variant3.png
+    BurnoutBuddy-icon-insight-variant1.png
+    BurnoutBuddy-icon-insight-variant2.png
+    BurnoutBuddy-icon-insight-variant3.png
+    BurnoutBuddy-icon-action-variant1.png
+    BurnoutBuddy-icon-action-variant2.png
+    BurnoutBuddy-icon-action-variant3.png
+    BurnoutBuddy-icon-restore-variant1.png
+    BurnoutBuddy-icon-restore-variant2.png
+    BurnoutBuddy-icon-restore-variant3.png
+
+  metadata/
+    manifest.json
+    cards.json
+    version.txt
+    metadata.md

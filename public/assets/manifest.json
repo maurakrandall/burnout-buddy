@@ -1,0 +1,263 @@
+{
+  "mainCards": {
+    "fronts": {
+      "challenge": "BurnoutBuddy-challenge-card.png",
+      "question": "BurnoutBuddy-question-card.png",
+      "insight": "BurnoutBuddy-insight-card.png",
+      "action": "BurnoutBuddy-action-card.png",
+      "restore": "BurnoutBuddy-restore-card.png"
+    },
+    "backs": {
+      "challenge": "BurnoutBuddy-card-back-blank-challenge.png",
+      "question": "BurnoutBuddy-card-back-blank-question.png",
+      "response": "BurnoutBuddy-card-back-blank-response.png",
+      "insight": "BurnoutBuddy-card-back-blank-insight.png",
+      "action": "BurnoutBuddy-card-back-blank-active.png",
+      "restore": "BurnoutBuddy-card-back-blank-restore.png"
+    }
+  },
+  "icons": {
+    "challenge": {
+      "v1": "BurnoutBuddy-icon-challenge-variant1.png",
+      "v2": "BurnoutBuddy-icon-challenge-variant2.png",
+      "v3": "BurnoutBuddy-icon-challenge-variant3.png"
+    },
+    "question": {
+      "v1": "BurnoutBuddy-icon-questions-variant1.png",
+      "v2": "BurnoutBuddy-icon-question-variant2.png",
+      "v3": "BurnoutBuddy-icon-question-variant3.png"
+    },
+    "response": {
+      "v1": "BurnoutBuddy-icon-response-variant1.png",
+      "v2": "BurnoutBuddy-icon-response-variant2.png",
+      "v3": "BurnoutBuddy-icon-response-variant3.png"
+    },
+    "insight": {
+      "v1": "BurnoutBuddy-icon-insight-variant1.png",
+      "v2": "BurnoutBuddy-icon-insight-variant2.png",
+      "v3": "BurnoutBuddy-icon-insight-variant3.png"
+    },
+    "action": {
+      "v1": "BurnoutBuddy-icon-action-variant1.png",
+      "v2": "BurnoutBuddy-icon-action-variant2.png",
+      "v3": "BurnoutBuddy-icon-action-variant3.png"
+    },
+    "restore": {
+      "v1": "BurnoutBuddy-icon-restore-variant1.png",
+      "v2": "BurnoutBuddy-icon-restore-variant2.png",
+      "v3": "BurnoutBuddy-icon-restore-variant3.png"
+    }
+  },
+  "responseCards": [
+    {
+      "id": "overwhelmed",
+      "title": "Overwhelmed",
+      "front": "BurnoutBuddy-response-card-front-overwhelm.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "responsibility_spiral",
+      "title": "Responsibility Spiral",
+      "front": "BurnoutBuddy-response-card-front-responsibility-spiral.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "unclear_expectations",
+      "title": "Unclear Expectations",
+      "front": "BurnoutBuddy-response-card-front-unclear-expectations.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "loss_of_autonomy",
+      "title": "Loss of Autonomy",
+      "front": "BurnoutBuddy-response-card-front-loss-autonomy.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "emotional_exhaustion",
+      "title": "Emotional Exhaustion",
+      "front": "BurnoutBuddy-response-card-front-emotional-exhaustion.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "carrying_the_team",
+      "title": "Carrying the Team",
+      "front": "BurnoutBuddy-response-card-front-carrying-team.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "self_doubt",
+      "title": "Self-Doubt",
+      "front": "BurnoutBuddy-response-card-front-self-doubt.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "decision_fatigue",
+      "title": "Decision Fatigue",
+      "front": "BurnoutBuddy-response-card-front-decision-fatigue.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "mismatch_of_values",
+      "title": "Mismatch of Values",
+      "front": "BurnoutBuddy-response-card-front-value-mismatch.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "conflict_avoidance",
+      "title": "Conflict Avoidance",
+      "front": "BurnoutBuddy-response-card-front-conflict-avoidance.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "chronic_under_recognition",
+      "title": "Chronic Under-Recognition",
+      "front": "BurnoutBuddy-response-card-front-under-recognition.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "people_pleasing_loop",
+      "title": "People-Pleasing Loop",
+      "front": "BurnoutBuddy-response-card-front-people-pleasing.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "hypervigilance",
+      "title": "Hypervigilance",
+      "front": "BurnoutBuddy-response-card-front-hypervigilance.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "stalled_growth",
+      "title": "Stalled Growth",
+      "front": "BurnoutBuddy-response-card-front-stalled-growth.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "perfectionism_spiral",
+      "title": "Perfectionism Spiral",
+      "front": "BurnoutBuddy-response-card-front-perfectionism.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "role_creep",
+      "title": "Role Creep",
+      "front": "BurnoutBuddy-response-card-front-role-creep.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "invisible_labor_load",
+      "title": "Invisible Labor Load",
+      "front": "BurnoutBuddy-response-card-front-invisible-labor-load.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "unpredictable_workload",
+      "title": "Unpredictable Workload",
+      "front": "BurnoutBuddy-response-card-front-unpredictable-workload.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "lack_of_feedback",
+      "title": "Lack of Feedback",
+      "front": "BurnoutBuddy-response-card-front-lack-of-feedback.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "boundary_erosion",
+      "title": "Boundary Erosion",
+      "front": "BurnoutBuddy-response-card-front-boundary-erosion.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "talent_drain",
+      "title": "Talent Drain",
+      "front": "BurnoutBuddy-response-card-front-talent-drain.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "misalignment_with_leadership",
+      "title": "Misalignment With Leadership",
+      "front": "BurnoutBuddy-response-card-front-misalignment-leadership.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "unresolved_conflict",
+      "title": "Unresolved Conflict",
+      "front": "BurnoutBuddy-response-card-front-unresolved-conflict.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "fear_of_failure",
+      "title": "Fear of Failure",
+      "front": "BurnoutBuddy-response-card-front-fear-failure.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "constant_context_switching",
+      "title": "Constant Context Switching / Cognitive Whiplash",
+      "front": "BurnoutBuddy-response-card-front-context-switching.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "task_fog",
+      "title": "Task Fog / Mental Clutter",
+      "front": "BurnoutBuddy-response-card-front-task-fog.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "emotional_labor_overload",
+      "title": "Emotional Labor Overload",
+      "front": "BurnoutBuddy-response-card-front-emotional-labor.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "working_out_of_position",
+      "title": "Working Out of Position",
+      "front": "BurnoutBuddy-response-card-front-out-of-position.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "being_the_fixer",
+      "title": "Being the Fixer",
+      "front": "BurnoutBuddy-response-card-front-the-fixer.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "over_functioning",
+      "title": "Over Functioning",
+      "front": "BurnoutBuddy-response-card-front-over-functioning.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "imposter_syndrome",
+      "title": "Imposter Syndrome",
+      "front": "BurnoutBuddy-response-card-front-impostor-syndrome.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "lack_of_recognition",
+      "title": "Lack of Recognition",
+      "front": "BurnoutBuddy-response-card-front-lack-of-recognition.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "low_trust",
+      "title": "Low Trust",
+      "front": "BurnoutBuddy-response-card-front-low-trust.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "misaligned_incentives",
+      "title": "Misaligned Incentives",
+      "front": "BurnoutBuddy-response-card-front-misaligned-incentives.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    },
+    {
+      "id": "blank",
+      "title": "Blank",
+      "front": "BurnoutBuddy-response-card-front-blank.png",
+      "back": "BurnoutBuddy-card-back-blank-response.png"
+    }
+  ]
+}

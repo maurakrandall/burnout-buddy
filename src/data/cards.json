@@ -1,0 +1,855 @@
+{
+  "challenges": [
+    {
+      "id": "C1",
+      "title": "I'm burned out",
+      "question": "What's draining you most?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "The workload is impossible",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R2",
+          "text": "I never actually recover",
+          "routesTo": "I7"
+        },
+        {
+          "id": "R3",
+          "text": "Meaningless overhead",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R4",
+          "text": "The work culture is toxic",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R5",
+          "text": "My values don't align",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R6",
+          "text": "I've lost my curiosity",
+          "routesTo": "I6"
+        },
+        {
+          "id": "R7",
+          "text": "The goalposts keep moving",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R8",
+          "text": "I'm losing myself",
+          "routesTo": "I3"
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "title": "I'm not appreciated at work",
+      "question": "What's going unrecognized?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "My workload isn't recognized",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R2",
+          "text": "Team dynamics being created",
+          "routesTo": "I4"
+        },
+        {
+          "id": "R3",
+          "text": "They're micromanaging",
+          "routesTo": "I26"
+        },
+        {
+          "id": "R4",
+          "text": "They're playing favorites",
+          "routesTo": "I27"
+        },
+        {
+          "id": "R5",
+          "text": "They don't have my back",
+          "routesTo": "I28"
+        },
+        {
+          "id": "R6",
+          "text": "They keep changing direction",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R7",
+          "text": "They're not communicating clearly",
+          "routesTo": "I13"
+        },
+        {
+          "id": "R8",
+          "text": "They're conflict-avoidant",
+          "routesTo": "I12"
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "title": "Am I crazy or is this crazy?",
+      "question": "What feels off?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "They say one thing but do another",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R2",
+          "text": "They're rewriting history",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R3",
+          "text": "The goalposts keep moving",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R4",
+          "text": "Toxic positivity",
+          "routesTo": "I23"
+        },
+        {
+          "id": "R5",
+          "text": "Everyone sees it but no one says it",
+          "routesTo": "I23"
+        },
+        {
+          "id": "R6",
+          "text": "I'm told I'm the problem",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R7",
+          "text": "Numbers don't match story",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R8",
+          "text": "Metrics changed after I succeeded",
+          "routesTo": "I14"
+        }
+      ]
+    },
+    {
+      "id": "C4",
+      "title": "I'm stuck in my career",
+      "question": "Where are you stuck?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "No clear path up",
+          "routesTo": "I17"
+        },
+        {
+          "id": "R2",
+          "text": "Skills underutilized",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R3",
+          "text": "Right people don't know what I can do",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R4",
+          "text": "It's politics, not performance",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R5",
+          "text": "Opportunities don't exist here",
+          "routesTo": "I17"
+        },
+        {
+          "id": "R6",
+          "text": "Golden-handcuffed",
+          "routesTo": "I17"
+        },
+        {
+          "id": "R7",
+          "text": "Don't know what I want next",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R8",
+          "text": "I'm pigeonholed",
+          "routesTo": "I29"
+        }
+      ]
+    },
+    {
+      "id": "C5",
+      "title": "I'm not motivated",
+      "question": "What's missing?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "The meaning",
+          "routesTo": "I5"
+        },
+        {
+          "id": "R2",
+          "text": "Growth opportunities",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R3",
+          "text": "Recognition",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R4",
+          "text": "Autonomy",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R5",
+          "text": "Connection with the work",
+          "routesTo": "I5"
+        },
+        {
+          "id": "R6",
+          "text": "Energy",
+          "routesTo": "I7"
+        },
+        {
+          "id": "R7",
+          "text": "Purpose",
+          "routesTo": "I5"
+        },
+        {
+          "id": "R8",
+          "text": "Challenge",
+          "routesTo": "I31"
+        }
+      ]
+    },
+    {
+      "id": "C6",
+      "title": "I'm dealing with conflict at work",
+      "question": "What's at the heart of it?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "We want different things",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R2",
+          "text": "They don't trust me",
+          "routesTo": "I26"
+        },
+        {
+          "id": "R3",
+          "text": "Communication styles clash",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R4",
+          "text": "Power imbalance",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R5",
+          "text": "Unspoken resentment",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R6",
+          "text": "Values misalignment",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R7",
+          "text": "They won't hear me",
+          "routesTo": "I13"
+        },
+        {
+          "id": "R8",
+          "text": "I can't speak up safely",
+          "routesTo": "I10"
+        }
+      ]
+    },
+    {
+      "id": "C7",
+      "title": "I'm struggling with change",
+      "question": "What's hard about the change?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "No clarity on why",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R2",
+          "text": "No input in decisions",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R3",
+          "text": "Too many changes at once",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R4",
+          "text": "My skills may become obsolete",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R5",
+          "text": "Loss of what worked",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R6",
+          "text": "No support through transition",
+          "routesTo": "I28"
+        },
+        {
+          "id": "R7",
+          "text": "Anxiety about uncertainty",
+          "routesTo": "I18"
+        },
+        {
+          "id": "R8",
+          "text": "I'm exhausted from adapting",
+          "routesTo": "I14"
+        }
+      ]
+    },
+    {
+      "id": "C8",
+      "title": "I'm having communication problems",
+      "question": "Where's the disconnect?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "They're not saying what they mean",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R2",
+          "text": "I'm not being heard",
+          "routesTo": "I13"
+        },
+        {
+          "id": "R3",
+          "text": "Too much left unsaid",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R4",
+          "text": "Feedback feels like attacks",
+          "routesTo": "I22"
+        },
+        {
+          "id": "R5",
+          "text": "Passive-aggressive dynamics",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R6",
+          "text": "No shared understanding",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R7",
+          "text": "Trust has eroded",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R8",
+          "text": "Cultural/style differences",
+          "routesTo": "I19"
+        }
+      ]
+    },
+    {
+      "id": "C9",
+      "title": "I feel overwhelmed",
+      "question": "What's piling up?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "The sheer volume of work",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R2",
+          "text": "Too many interruptions",
+          "routesTo": "I24"
+        },
+        {
+          "id": "R3",
+          "text": "Carrying others' stress",
+          "routesTo": "I15"
+        },
+        {
+          "id": "R4",
+          "text": "Emotional labor of leadership",
+          "routesTo": "I30"
+        },
+        {
+          "id": "R5",
+          "text": "No boundaries between work and life",
+          "routesTo": "I21"
+        },
+        {
+          "id": "R6",
+          "text": "Perfectionism making everything take longer",
+          "routesTo": "I20"
+        },
+        {
+          "id": "R7",
+          "text": "Decision fatigue",
+          "routesTo": "I24"
+        },
+        {
+          "id": "R8",
+          "text": "Everything feels urgent",
+          "routesTo": "I32"
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "title": "I'm angry at work",
+      "question": "What's making you angry?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "Broken promises",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R2",
+          "text": "Unfair treatment",
+          "routesTo": "I27"
+        },
+        {
+          "id": "R3",
+          "text": "Lack of control",
+          "routesTo": "I16"
+        },
+        {
+          "id": "R4",
+          "text": "Being disrespected",
+          "routesTo": "I28"
+        },
+        {
+          "id": "R5",
+          "text": "Values violation",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R6",
+          "text": "Watching dysfunction",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R7",
+          "text": "Boundary violations",
+          "routesTo": "I16"
+        },
+        {
+          "id": "R8",
+          "text": "Gaslighting",
+          "routesTo": "I10"
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "title": "I'm anxious",
+      "question": "What are you worried about?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "Job security",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R2",
+          "text": "My performance",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R3",
+          "text": "What people think of me",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R4",
+          "text": "Making the wrong decision",
+          "routesTo": "I18"
+        },
+        {
+          "id": "R5",
+          "text": "Letting people down",
+          "routesTo": "I20"
+        },
+        {
+          "id": "R6",
+          "text": "The future is uncertain",
+          "routesTo": "I18"
+        },
+        {
+          "id": "R7",
+          "text": "I'm not good enough",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R8",
+          "text": "Everything is changing too fast",
+          "routesTo": "I14"
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "title": "I need to grow but don't know how",
+      "question": "What kind of growth do you need?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "New skills",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R2",
+          "text": "Leadership development",
+          "routesTo": "I32"
+        },
+        {
+          "id": "R3",
+          "text": "Visibility and influence",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R4",
+          "text": "Emotional intelligence",
+          "routesTo": "I30"
+        },
+        {
+          "id": "R5",
+          "text": "Strategic thinking",
+          "routesTo": "I32"
+        },
+        {
+          "id": "R6",
+          "text": "Communication skills",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R7",
+          "text": "Confidence",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R8",
+          "text": "Boundaries",
+          "routesTo": "I21"
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "title": "Something is not working",
+      "question": "What's broken?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "The process",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R2",
+          "text": "The team dynamics",
+          "routesTo": "I15"
+        },
+        {
+          "id": "R3",
+          "text": "The leadership",
+          "routesTo": "I28"
+        },
+        {
+          "id": "R4",
+          "text": "Communication",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R5",
+          "text": "The strategy",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R6",
+          "text": "The culture",
+          "routesTo": "I23"
+        },
+        {
+          "id": "R7",
+          "text": "My role clarity",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R8",
+          "text": "The priorities",
+          "routesTo": "I10"
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "title": "Leadership is harder than I expected",
+      "question": "What's harder than you expected?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "Managing people's emotions",
+          "routesTo": "I30"
+        },
+        {
+          "id": "R2",
+          "text": "Letting go of doing the work myself",
+          "routesTo": "I32"
+        },
+        {
+          "id": "R3",
+          "text": "Making decisions with incomplete info",
+          "routesTo": "I18"
+        },
+        {
+          "id": "R4",
+          "text": "Being vulnerable",
+          "routesTo": "I25"
+        },
+        {
+          "id": "R5",
+          "text": "Setting boundaries while being available",
+          "routesTo": "I21"
+        },
+        {
+          "id": "R6",
+          "text": "Having difficult conversations",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R7",
+          "text": "Modeling what I want to see",
+          "routesTo": "I4"
+        },
+        {
+          "id": "R8",
+          "text": "The isolation",
+          "routesTo": "I2"
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "title": "I don't know\u2014pick for me",
+      "question": "Let's see what resonates",
+      "responses": []
+    }
+  ],
+  "insights": [
+    {
+      "id": "I1",
+      "category": "Burnout",
+      "theme": "Environmental vs. Personal Attribution",
+      "title": "The System is Broken",
+      "front": "Wait\u2014is this me, or is this the job?",
+      "back": "Research shows burnout is not a problem of people, but of the social environment they work in. When we understand that the environment is often the issue\u2014workload, autonomy, recognition, fairness\u2014it shifts what we blame ourselves for.\n\nThis doesn't mean we're powerless. It means we're looking in the right direction.",
+      "goDeeper": "What would change if you stopped blaming yourself?"
+    },
+    {
+      "id": "I3",
+      "category": "Growth / Burnout",
+      "theme": "Multiple Identities",
+      "title": "Self-Complexity is Protection",
+      "front": "What else are you besides your job title?",
+      "back": "Research shows that people who self-identify in multiple ways\u2014gardener, parent, cyclist, reader\u2014have significantly more resilience. The occasional negative experience in one area is balanced by positive reinforcement in others.\n\nWhen work is our only identity, we have no buffer.",
+      "goDeeper": "What's one identity you want to develop this month?"
+    },
+    {
+      "id": "I6",
+      "category": "Burnout / Reality Check",
+      "theme": "Resilience vs. System Change",
+      "title": "Resilience is a Buffer, Not a Cure",
+      "front": "What if resilience isn't about toughing it out?",
+      "back": "Research shows resilience doesn't mean enduring toxic conditions\u2014it's about having resources that buffer stress. Support networks. Recovery time. Work that aligns with our values. Multiple identities beyond \"worker.\"\n\nWhen the environment is harmful, building resilience without fixing the system just helps us survive dysfunction longer.",
+      "goDeeper": "What would it mean to stop fixing yourself and start fixing the environment?"
+    },
+    {
+      "id": "I7",
+      "category": "Overwhelmed / Work-life Balance",
+      "theme": "Rest as Requirement",
+      "title": "Recovery is Not Productivity",
+      "front": "What if rest doesn't have to be earned?",
+      "back": "Research shows recovery experiences\u2014non-work activities that restore energy\u2014are essential for sustained performance. But our workplace culture treats rest as a reward for productivity instead of a requirement for it.\n\nWhen we make recovery optional, burnout becomes inevitable.",
+      "goDeeper": "What would change if you treated recovery as part of the work, not separate from it?"
+    },
+    {
+      "id": "I10",
+      "category": "Leadership / Team Dynamics",
+      "theme": "Systemic Solutions",
+      "title": "Organizational Problems Require Organizational Solutions",
+      "front": "What if it's not about individual resilience?",
+      "back": "Research shows that when organizations have systemic problems\u2014poor communication, misaligned incentives, lack of psychological safety\u2014individual coping strategies won't fix them. These aren't personal failures. They're structural issues that require structural solutions.\n\nAcknowledging this isn't giving up. It's choosing the right tools for the job.",
+      "goDeeper": "What's one organizational problem you've been treating as a personal one?"
+    },
+    {
+      "id": "I14",
+      "category": "Change / Adaptation",
+      "theme": "Cumulative Depletion",
+      "title": "Change Fatigue is Accumulative",
+      "front": "How much change is too much?",
+      "back": "Research shows that constant organizational change\u2014even positive change\u2014depletes our capacity to adapt. Each pivot requires energy to unlearn old patterns and build new ones. When changes come faster than we can integrate them, we hit change fatigue.\n\nIt's not about lacking adaptability. It's about exceeding our adaptation budget.",
+      "goDeeper": "What would it mean to protect your adaptation budget like you protect your time?"
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "pairsWith": "I1",
+      "category": "Career / Motivation",
+      "front": "What if you spent 20% of your time on work you care about?",
+      "back": "Research shows that devoting just 20% of your work week to activities aligned with your core values significantly reduces burnout.",
+      "tryThis": "Name one thing that's draining you. Ask: \"Is this about my capability, or is this about how the work is structured?\" If it's structural, identify one project or responsibility that lights you up. Block 4 hours this week for it. Protect that time.",
+      "goDeeper": "What would it feel like to protect time for what matters?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A3",
+      "pairsWith": "I3",
+      "category": "Growth / Identity",
+      "front": "What else are you besides your job title?",
+      "back": "Research shows that people with multiple identities have significantly more resilience.",
+      "tryThis": "List 5 ways you identify that have nothing to do with work. If you struggle to hit 5, that's feedback. Circle the one that needs attention this week. What's one thing you used to love that you've let go of? Do that thing this week, even for 30 minutes.",
+      "goDeeper": "What's one identity you want to develop this month?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A6",
+      "pairsWith": "I6",
+      "category": "Self-Care / Energy",
+      "front": "What actually restores your energy?",
+      "back": "Resilience isn't about enduring more\u2014it's about having resources that buffer stress.",
+      "tryThis": "List 3 things that genuinely restore your energy (not things you \"should\" do, things that actually work). Pick one. Do it this week, even if it feels indulgent. Notice how you feel after.",
+      "goDeeper": "What if rest was non-negotiable?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A7",
+      "pairsWith": "I7",
+      "category": "Work-life Balance",
+      "front": "Block recovery time like a meeting",
+      "back": "Recovery isn't optional\u2014it's essential for sustained performance.",
+      "tryThis": "Look at your calendar. Find 2 hours this week (can be broken into smaller blocks). Block it. Label it \"Recovery Time.\" Treat it like a meeting with your most important stakeholder: you. Don't schedule over it.",
+      "goDeeper": "What would change if you treated recovery as part of the work?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A10",
+      "pairsWith": "I10",
+      "category": "Systems Thinking",
+      "front": "Name one structural problem",
+      "back": "Organizational problems require organizational solutions, not just individual resilience.",
+      "tryThis": "Name one thing that's broken in your organization. Write it down. Not \"I need to work harder\" or \"I need to communicate better.\" What's the structural issue? Poor processes? Misaligned incentives? Lack of clarity? Name it. You don't have to fix it. Just see it clearly.",
+      "goDeeper": "What becomes possible when you stop trying to fix yourself?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A14",
+      "pairsWith": "I14",
+      "category": "Change Management",
+      "front": "Name what you need to handle change",
+      "back": "Change fatigue is real\u2014adaptation takes energy.",
+      "tryThis": "Think about the changes happening around you. Ask: \"What would make this transition easier?\" More information? More time? More support? Write down one thing you need. Then ask for it\u2014from your manager, your team, or yourself.",
+      "goDeeper": "What if you protected your adaptation budget?",
+      "practiceWithAI": null
+    }
+  ],
+  "restore": [
+    {
+      "id": "R1.1",
+      "level": 1,
+      "levelName": "Flicker",
+      "front": "You showed up.",
+      "back": "Some days, showing up is the work. You didn't have to have answers. You didn't have to fix anything. You looked at something real, and that takes courage.",
+      "quote": "Mistakes are part of the dues one pays for a full life. \u2014 Sophia Loren",
+      "microcopy": "You showed up. That's enough.",
+      "footer": "The Glow Meter reflects where you are right now. Be gentle with yourself today."
+    },
+    {
+      "id": "R2.1",
+      "level": 2,
+      "levelName": "Spark",
+      "front": "A little space returned.",
+      "back": "Not a lot. But enough to breathe. You created that. However small it feels, it's real.",
+      "quote": "Almost everything will work again if you unplug it for a few minutes, including you. \u2014 Anne Lamott",
+      "microcopy": "A little space returned.",
+      "footer": "The Glow Meter reflects your willingness to make room. Keep going."
+    },
+    {
+      "id": "R3.1",
+      "level": 3,
+      "levelName": "Ember",
+      "front": "You made room.",
+      "back": "Room to think. Room to feel. Room to be something other than productive. That room matters more than you know.",
+      "quote": "You yourself, as much as anybody in the entire universe, deserve your love and affection. \u2014 Buddha",
+      "microcopy": "Something softened.",
+      "footer": "The Glow Meter reflects the space you're creating. Trust it."
+    },
+    {
+      "id": "R4.1",
+      "level": 4,
+      "levelName": "Flame",
+      "front": "Your energy is returning.",
+      "back": "Not all at once. Not perfectly. But it's there\u2014a flicker of what you thought you'd lost. You're remembering what it feels like to have capacity.",
+      "quote": "Energy is the essence of life. Every day you decide how you're going to use it. \u2014 Oprah Winfrey",
+      "microcopy": "Your energy is returning.",
+      "footer": "The Glow Meter reflects your restoration. Carry this forward."
+    },
+    {
+      "id": "R5.1",
+      "level": 5,
+      "levelName": "Glow",
+      "front": "You're glowing.",
+      "back": "Not because you fixed everything. Not because the struggle is over. But because you showed up, stayed curious, and gave yourself permission to try something different.",
+      "quote": "You are not a drop in the ocean. You are the entire ocean in a drop. \u2014 Rumi",
+      "microcopy": "You're glowing. Keep it light.",
+      "footer": "The Glow Meter reflects your full presence. Let this travel with you."
+    }
+  ],
+  "metadata": {
+    "version": "1.0-MVP",
+    "created": "2025-11-25",
+    "thread": 17,
+    "scope": "Challenge 1 complete journey for testing",
+    "totalChallenges": 15,
+    "totalInsights": 6,
+    "totalActions": 6,
+    "totalRestore": 5,
+    "note": "MVP dataset for testing: 15 challenges with 6 core insights/actions. Full 32 insights/actions to be added in batch update.",
+    "sources": [
+      "Burnout_Buddy_Complete_Routing_Map.md",
+      "Burnout_Buddy_Insights_Complete_Final.md",
+      "Burnout_Buddy_Actions_Draft_From_Insights.md",
+      "Burnout_Buddy_Restore_Cards_Complete.md"
+    ]
+  }
+}

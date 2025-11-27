@@ -1,0 +1,62 @@
+/* Card Container */
+.card-container {
+  perspective: 1000px;
+  cursor: pointer;
+  margin: 0 auto;
+}
+
+/* Card Wrapper */
+.card {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.7s ease-in-out;
+  transform-style: preserve-3d;
+}
+
+/* Flipped State */
+.card.flipped {
+  transform: rotateY(180deg);
+}
+
+/* Card Faces */
+.card-face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* Front Face */
+.card-front {
+  z-index: 2;
+  transform: rotateY(0deg);
+}
+
+/* Back Face */
+.card-back {
+  transform: rotateY(180deg);
+}
+
+/* Content Overlay */
+.card-content-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  pointer-events: none;
+}
+
+/* Hover Effect */
+.card-container:hover .card {
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+}

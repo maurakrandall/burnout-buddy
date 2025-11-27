@@ -1,0 +1,675 @@
+{
+  "challenges": [
+    {
+      "id": "C1",
+      "title": "I'M BURNED OUT",
+      "question": "What's draining you most?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "The workload is impossible",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R2",
+          "text": "I never actually recover",
+          "routesTo": "I7"
+        },
+        {
+          "id": "R3",
+          "text": "Meaningless overhead",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R4",
+          "text": "The work culture is toxic",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R5",
+          "text": "My values don't align",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R6",
+          "text": "I've lost my curiosity",
+          "routesTo": "I6"
+        },
+        {
+          "id": "R7",
+          "text": "The goalposts keep moving",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R8",
+          "text": "I'm losing myself",
+          "routesTo": "I3"
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "title": "I'M NOT APPRECIATED AT WORK",
+      "question": "What's going unrecognized?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "My workload isn't recognized",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R2",
+          "text": "Team dynamics being created",
+          "routesTo": "I4"
+        },
+        {
+          "id": "R3",
+          "text": "They're micromanaging",
+          "routesTo": "I26"
+        },
+        {
+          "id": "R4",
+          "text": "They're playing favorites",
+          "routesTo": "I27"
+        },
+        {
+          "id": "R5",
+          "text": "They don't have my back",
+          "routesTo": "I28"
+        },
+        {
+          "id": "R6",
+          "text": "They keep changing direction",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R7",
+          "text": "They're not communicating clearly",
+          "routesTo": "I13"
+        },
+        {
+          "id": "R8",
+          "text": "They're conflict-avoidant",
+          "routesTo": "I12"
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "title": "AM I CRAZY OR IS THIS CRAZY?",
+      "question": "What feels off?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "They say one thing but do another",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R2",
+          "text": "They're rewriting history",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R3",
+          "text": "The goalposts keep moving",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R4",
+          "text": "Toxic positivity",
+          "routesTo": "I23"
+        },
+        {
+          "id": "R5",
+          "text": "Everyone sees it but no one says it",
+          "routesTo": "I23"
+        },
+        {
+          "id": "R6",
+          "text": "I'm told I'm the problem",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R7",
+          "text": "Numbers don't match story",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R8",
+          "text": "Metrics changed after I succeeded",
+          "routesTo": "I14"
+        }
+      ]
+    },
+    {
+      "id": "C4",
+      "title": "I'M STUCK IN MY CAREER",
+      "question": "Where are you stuck?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "No clear path up",
+          "routesTo": "I17"
+        },
+        {
+          "id": "R2",
+          "text": "Skills underutilized",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R3",
+          "text": "Right people don't know what I can do",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R4",
+          "text": "It's politics, not performance",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R5",
+          "text": "Opportunities don't exist here",
+          "routesTo": "I17"
+        },
+        {
+          "id": "R6",
+          "text": "Golden-handcuffed",
+          "routesTo": "I17"
+        },
+        {
+          "id": "R7",
+          "text": "Don't know what I want next",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R8",
+          "text": "I'm pigeonholed",
+          "routesTo": "I29"
+        }
+      ]
+    },
+    {
+      "id": "C5",
+      "title": "I'M NOT MOTIVATED",
+      "question": "What's missing?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "The meaning",
+          "routesTo": "I5"
+        },
+        {
+          "id": "R2",
+          "text": "Growth opportunities",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R3",
+          "text": "Recognition",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R4",
+          "text": "Autonomy",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R5",
+          "text": "Connection with the work",
+          "routesTo": "I5"
+        },
+        {
+          "id": "R6",
+          "text": "Energy",
+          "routesTo": "I7"
+        },
+        {
+          "id": "R7",
+          "text": "Purpose",
+          "routesTo": "I5"
+        },
+        {
+          "id": "R8",
+          "text": "Challenge",
+          "routesTo": "I31"
+        }
+      ]
+    },
+    {
+      "id": "C6",
+      "title": "I'M DEALING WITH CONFLICT AT WORK",
+      "question": "What's at the heart of it?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "We want different things",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R2",
+          "text": "They don't trust me",
+          "routesTo": "I26"
+        },
+        {
+          "id": "R3",
+          "text": "Communication styles clash",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R4",
+          "text": "Power imbalance",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R5",
+          "text": "Unspoken resentment",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R6",
+          "text": "Values misalignment",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R7",
+          "text": "They won't hear me",
+          "routesTo": "I13"
+        },
+        {
+          "id": "R8",
+          "text": "I can't speak up safely",
+          "routesTo": "I10"
+        }
+      ]
+    },
+    {
+      "id": "C7",
+      "title": "I'M STRUGGLING WITH CHANGE",
+      "question": "What's hard about the change?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "No clarity on why",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R2",
+          "text": "No input in decisions",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R3",
+          "text": "Too many changes at once",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R4",
+          "text": "My skills may become obsolete",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R5",
+          "text": "Loss of what worked",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R6",
+          "text": "No support through transition",
+          "routesTo": "I28"
+        },
+        {
+          "id": "R7",
+          "text": "Anxiety about uncertainty",
+          "routesTo": "I18"
+        },
+        {
+          "id": "R8",
+          "text": "I'm exhausted from adapting",
+          "routesTo": "I14"
+        }
+      ]
+    },
+    {
+      "id": "C8",
+      "title": "I'M HAVING COMMUNICATION PROBLEMS",
+      "question": "Where's the disconnect?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "They're not saying what they mean",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R2",
+          "text": "I'm not being heard",
+          "routesTo": "I13"
+        },
+        {
+          "id": "R3",
+          "text": "Too much left unsaid",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R4",
+          "text": "Feedback feels like attacks",
+          "routesTo": "I22"
+        },
+        {
+          "id": "R5",
+          "text": "Passive-aggressive dynamics",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R6",
+          "text": "No shared understanding",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R7",
+          "text": "Trust has eroded",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R8",
+          "text": "Cultural/style differences",
+          "routesTo": "I19"
+        }
+      ]
+    },
+    {
+      "id": "C9",
+      "title": "I FEEL OVERWHELMED",
+      "question": "What's piling up?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "The sheer volume of work",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R2",
+          "text": "Too many interruptions",
+          "routesTo": "I24"
+        },
+        {
+          "id": "R3",
+          "text": "Carrying others' stress",
+          "routesTo": "I15"
+        },
+        {
+          "id": "R4",
+          "text": "Emotional labor of leadership",
+          "routesTo": "I30"
+        },
+        {
+          "id": "R5",
+          "text": "No boundaries between work and life",
+          "routesTo": "I21"
+        },
+        {
+          "id": "R6",
+          "text": "Perfectionism making everything take longer",
+          "routesTo": "I20"
+        },
+        {
+          "id": "R7",
+          "text": "Decision fatigue",
+          "routesTo": "I24"
+        },
+        {
+          "id": "R8",
+          "text": "Everything feels urgent",
+          "routesTo": "I32"
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "title": "I'M ANGRY AT WORK",
+      "question": "What's making you angry?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "Broken promises",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R2",
+          "text": "Unfair treatment",
+          "routesTo": "I27"
+        },
+        {
+          "id": "R3",
+          "text": "Lack of control",
+          "routesTo": "I16"
+        },
+        {
+          "id": "R4",
+          "text": "Being disrespected",
+          "routesTo": "I28"
+        },
+        {
+          "id": "R5",
+          "text": "Values violation",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R6",
+          "text": "Watching dysfunction",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R7",
+          "text": "Boundary violations",
+          "routesTo": "I16"
+        },
+        {
+          "id": "R8",
+          "text": "Gaslighting",
+          "routesTo": "I10"
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "title": "I'M ANXIOUS",
+      "question": "What are you worried about?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "Job security",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R2",
+          "text": "My performance",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R3",
+          "text": "What people think of me",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R4",
+          "text": "Making the wrong decision",
+          "routesTo": "I18"
+        },
+        {
+          "id": "R5",
+          "text": "Letting people down",
+          "routesTo": "I20"
+        },
+        {
+          "id": "R6",
+          "text": "The future is uncertain",
+          "routesTo": "I18"
+        },
+        {
+          "id": "R7",
+          "text": "I'm not good enough",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R8",
+          "text": "Everything is changing too fast",
+          "routesTo": "I14"
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "title": "I NEED TO GROW BUT DON'T KNOW HOW",
+      "question": "What kind of growth do you need?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "New skills",
+          "routesTo": "I31"
+        },
+        {
+          "id": "R2",
+          "text": "Leadership development",
+          "routesTo": "I32"
+        },
+        {
+          "id": "R3",
+          "text": "Visibility and influence",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R4",
+          "text": "Emotional intelligence",
+          "routesTo": "I30"
+        },
+        {
+          "id": "R5",
+          "text": "Strategic thinking",
+          "routesTo": "I32"
+        },
+        {
+          "id": "R6",
+          "text": "Communication skills",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R7",
+          "text": "Confidence",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R8",
+          "text": "Boundaries",
+          "routesTo": "I21"
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "title": "SOMETHING IS NOT WORKING",
+      "question": "What's broken?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "The process",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R2",
+          "text": "The team dynamics",
+          "routesTo": "I15"
+        },
+        {
+          "id": "R3",
+          "text": "The leadership",
+          "routesTo": "I28"
+        },
+        {
+          "id": "R4",
+          "text": "Communication",
+          "routesTo": "I19"
+        },
+        {
+          "id": "R5",
+          "text": "The strategy",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R6",
+          "text": "The culture",
+          "routesTo": "I23"
+        },
+        {
+          "id": "R7",
+          "text": "My role clarity",
+          "routesTo": "I29"
+        },
+        {
+          "id": "R8",
+          "text": "The priorities",
+          "routesTo": "I10"
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "title": "LEADERSHIP IS HARDER THAN I EXPECTED",
+      "question": "What's harder than you expected?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "Managing people's emotions",
+          "routesTo": "I30"
+        },
+        {
+          "id": "R2",
+          "text": "Letting go of doing the work myself",
+          "routesTo": "I32"
+        },
+        {
+          "id": "R3",
+          "text": "Making decisions with incomplete info",
+          "routesTo": "I18"
+        },
+        {
+          "id": "R4",
+          "text": "Being vulnerable",
+          "routesTo": "I25"
+        },
+        {
+          "id": "R5",
+          "text": "Setting boundaries while being available",
+          "routesTo": "I21"
+        },
+        {
+          "id": "R6",
+          "text": "Having difficult conversations",
+          "routesTo": "I12"
+        },
+        {
+          "id": "R7",
+          "text": "Modeling what I want to see",
+          "routesTo": "I4"
+        },
+        {
+          "id": "R8",
+          "text": "The isolation",
+          "routesTo": "I2"
+        }
+      ]
+    },
+    {
+      "id": "C15",
+      "title": "I DON'T KNOWâ€”PICK FOR ME",
+      "question": "",
+      "responses": []
+    }
+  ],
+  "metadata": {
+    "total": 15,
+    "source": "Burnout_Buddy_Complete_Routing_Map.md",
+    "version": "1.0",
+    "created": "2025-11-26",
+    "note": "C15 is a random selector with no fixed responses"
+  }
+}

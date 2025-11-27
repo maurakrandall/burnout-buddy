@@ -1,0 +1,238 @@
+{
+  "challenges": [
+    {
+      "id": "C1",
+      "title": "I'm burned out",
+      "question": "What's draining you most?",
+      "responses": [
+        {
+          "id": "R1",
+          "text": "The workload is impossible",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R2",
+          "text": "I never actually recover",
+          "routesTo": "I7"
+        },
+        {
+          "id": "R3",
+          "text": "Meaningless overhead",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R4",
+          "text": "The work culture is toxic",
+          "routesTo": "I10"
+        },
+        {
+          "id": "R5",
+          "text": "My values don't align",
+          "routesTo": "I1"
+        },
+        {
+          "id": "R6",
+          "text": "I've lost my curiosity",
+          "routesTo": "I6"
+        },
+        {
+          "id": "R7",
+          "text": "The goalposts keep moving",
+          "routesTo": "I14"
+        },
+        {
+          "id": "R8",
+          "text": "I'm losing myself",
+          "routesTo": "I3"
+        }
+      ]
+    }
+  ],
+  "insights": [
+    {
+      "id": "I1",
+      "category": "Burnout",
+      "theme": "Environmental vs. Personal Attribution",
+      "title": "The System is Broken",
+      "front": "Wait—is this me, or is this the job?",
+      "back": "Research shows burnout is not a problem of people, but of the social environment they work in. When we understand that the environment is often the issue—workload, autonomy, recognition, fairness—it shifts what we blame ourselves for.\n\nThis doesn't mean we're powerless. It means we're looking in the right direction.",
+      "goDeeper": "What would change if you stopped blaming yourself?"
+    },
+    {
+      "id": "I3",
+      "category": "Growth / Burnout",
+      "theme": "Multiple Identities",
+      "title": "Self-Complexity is Protection",
+      "front": "What else are you besides your job title?",
+      "back": "Research shows that people who self-identify in multiple ways—gardener, parent, cyclist, reader—have significantly more resilience. The occasional negative experience in one area is balanced by positive reinforcement in others.\n\nWhen work is our only identity, we have no buffer.",
+      "goDeeper": "What's one identity you want to develop this month?"
+    },
+    {
+      "id": "I6",
+      "category": "Burnout / Reality Check",
+      "theme": "Resilience vs. System Change",
+      "title": "Resilience is a Buffer, Not a Cure",
+      "front": "What if resilience isn't about toughing it out?",
+      "back": "Research shows resilience doesn't mean enduring toxic conditions—it's about having resources that buffer stress. Support networks. Recovery time. Work that aligns with our values. Multiple identities beyond \"worker.\"\n\nWhen the environment is harmful, building resilience without fixing the system just helps us survive dysfunction longer.",
+      "goDeeper": "What would it mean to stop fixing yourself and start fixing the environment?"
+    },
+    {
+      "id": "I7",
+      "category": "Overwhelmed / Work-life Balance",
+      "theme": "Rest as Requirement",
+      "title": "Recovery is Not Productivity",
+      "front": "What if rest doesn't have to be earned?",
+      "back": "Research shows recovery experiences—non-work activities that restore energy—are essential for sustained performance. But our workplace culture treats rest as a reward for productivity instead of a requirement for it.\n\nWhen we make recovery optional, burnout becomes inevitable.",
+      "goDeeper": "What would change if you treated recovery as part of the work, not separate from it?"
+    },
+    {
+      "id": "I10",
+      "category": "Leadership / Team Dynamics",
+      "theme": "Systemic Solutions",
+      "title": "Organizational Problems Require Organizational Solutions",
+      "front": "What if it's not about individual resilience?",
+      "back": "Research shows that when organizations have systemic problems—poor communication, misaligned incentives, lack of psychological safety—individual coping strategies won't fix them. These aren't personal failures. They're structural issues that require structural solutions.\n\nAcknowledging this isn't giving up. It's choosing the right tools for the job.",
+      "goDeeper": "What's one organizational problem you've been treating as a personal one?"
+    },
+    {
+      "id": "I14",
+      "category": "Change / Adaptation",
+      "theme": "Cumulative Depletion",
+      "title": "Change Fatigue is Accumulative",
+      "front": "How much change is too much?",
+      "back": "Research shows that constant organizational change—even positive change—depletes our capacity to adapt. Each pivot requires energy to unlearn old patterns and build new ones. When changes come faster than we can integrate them, we hit change fatigue.\n\nIt's not about lacking adaptability. It's about exceeding our adaptation budget.",
+      "goDeeper": "What would it mean to protect your adaptation budget like you protect your time?"
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "pairsWith": "I1",
+      "category": "Career / Motivation",
+      "front": "What if you spent 20% of your time on work you care about?",
+      "back": "Research shows that devoting just 20% of your work week to activities aligned with your core values significantly reduces burnout.",
+      "tryThis": "Name one thing that's draining you. Ask: \"Is this about my capability, or is this about how the work is structured?\" If it's structural, identify one project or responsibility that lights you up. Block 4 hours this week for it. Protect that time.",
+      "goDeeper": "What would it feel like to protect time for what matters?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A3",
+      "pairsWith": "I3",
+      "category": "Growth / Identity",
+      "front": "What else are you besides your job title?",
+      "back": "Research shows that people with multiple identities have significantly more resilience.",
+      "tryThis": "List 5 ways you identify that have nothing to do with work. If you struggle to hit 5, that's feedback. Circle the one that needs attention this week. What's one thing you used to love that you've let go of? Do that thing this week, even for 30 minutes.",
+      "goDeeper": "What's one identity you want to develop this month?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A6",
+      "pairsWith": "I6",
+      "category": "Self-Care / Energy",
+      "front": "What actually restores your energy?",
+      "back": "Resilience isn't about enduring more—it's about having resources that buffer stress.",
+      "tryThis": "List 3 things that genuinely restore your energy (not things you \"should\" do, things that actually work). Pick one. Do it this week, even if it feels indulgent. Notice how you feel after.",
+      "goDeeper": "What if rest was non-negotiable?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A7",
+      "pairsWith": "I7",
+      "category": "Work-life Balance",
+      "front": "Block recovery time like a meeting",
+      "back": "Recovery isn't optional—it's essential for sustained performance.",
+      "tryThis": "Look at your calendar. Find 2 hours this week (can be broken into smaller blocks). Block it. Label it \"Recovery Time.\" Treat it like a meeting with your most important stakeholder: you. Don't schedule over it.",
+      "goDeeper": "What would change if you treated recovery as part of the work?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A10",
+      "pairsWith": "I10",
+      "category": "Systems Thinking",
+      "front": "Name one structural problem",
+      "back": "Organizational problems require organizational solutions, not just individual resilience.",
+      "tryThis": "Name one thing that's broken in your organization. Write it down. Not \"I need to work harder\" or \"I need to communicate better.\" What's the structural issue? Poor processes? Misaligned incentives? Lack of clarity? Name it. You don't have to fix it. Just see it clearly.",
+      "goDeeper": "What becomes possible when you stop trying to fix yourself?",
+      "practiceWithAI": null
+    },
+    {
+      "id": "A14",
+      "pairsWith": "I14",
+      "category": "Change Management",
+      "front": "Name what you need to handle change",
+      "back": "Change fatigue is real—adaptation takes energy.",
+      "tryThis": "Think about the changes happening around you. Ask: \"What would make this transition easier?\" More information? More time? More support? Write down one thing you need. Then ask for it—from your manager, your team, or yourself.",
+      "goDeeper": "What if you protected your adaptation budget?",
+      "practiceWithAI": null
+    }
+  ],
+  "restore": [
+    {
+      "id": "R1.1",
+      "level": 1,
+      "levelName": "Flicker",
+      "front": "You showed up.",
+      "back": "Some days, showing up is the work. You didn't have to have answers. You didn't have to fix anything. You looked at something real, and that takes courage.",
+      "quote": "Mistakes are part of the dues one pays for a full life. — Sophia Loren",
+      "microcopy": "You showed up. That's enough.",
+      "footer": "The Glow Meter reflects where you are right now. Be gentle with yourself today."
+    },
+    {
+      "id": "R2.1",
+      "level": 2,
+      "levelName": "Spark",
+      "front": "A little space returned.",
+      "back": "Not a lot. But enough to breathe. You created that. However small it feels, it's real.",
+      "quote": "Almost everything will work again if you unplug it for a few minutes, including you. — Anne Lamott",
+      "microcopy": "A little space returned.",
+      "footer": "The Glow Meter reflects your willingness to make room. Keep going."
+    },
+    {
+      "id": "R3.1",
+      "level": 3,
+      "levelName": "Ember",
+      "front": "You made room.",
+      "back": "Room to think. Room to feel. Room to be something other than productive. That room matters more than you know.",
+      "quote": "You yourself, as much as anybody in the entire universe, deserve your love and affection. — Buddha",
+      "microcopy": "Something softened.",
+      "footer": "The Glow Meter reflects the space you're creating. Trust it."
+    },
+    {
+      "id": "R4.1",
+      "level": 4,
+      "levelName": "Flame",
+      "front": "Your energy is returning.",
+      "back": "Not all at once. Not perfectly. But it's there—a flicker of what you thought you'd lost. You're remembering what it feels like to have capacity.",
+      "quote": "Energy is the essence of life. Every day you decide how you're going to use it. — Oprah Winfrey",
+      "microcopy": "Your energy is returning.",
+      "footer": "The Glow Meter reflects your restoration. Carry this forward."
+    },
+    {
+      "id": "R5.1",
+      "level": 5,
+      "levelName": "Glow",
+      "front": "You're glowing.",
+      "back": "Not because you fixed everything. Not because the struggle is over. But because you showed up, stayed curious, and gave yourself permission to try something different.",
+      "quote": "You are not a drop in the ocean. You are the entire ocean in a drop. — Rumi",
+      "microcopy": "You're glowing. Keep it light.",
+      "footer": "The Glow Meter reflects your full presence. Let this travel with you."
+    }
+  ],
+  "metadata": {
+    "version": "1.0-MVP",
+    "created": "2025-11-25",
+    "thread": 16,
+    "scope": "Challenge 1 complete journey for testing",
+    "totalChallenges": 1,
+    "totalInsights": 6,
+    "totalActions": 6,
+    "totalRestore": 5,
+    "note": "This is a starter dataset. Full dataset (15 challenges, 32 insights, 32 actions, 20 restore) to be added in Thread 17.",
+    "sources": [
+      "Burnout_Buddy_Complete_Routing_Map.md",
+      "Burnout_Buddy_Insights_Complete_Final.md",
+      "Burnout_Buddy_Actions_Draft_From_Insights.md",
+      "Burnout_Buddy_Restore_Cards_Complete.md"
+    ]
+  }
+}
